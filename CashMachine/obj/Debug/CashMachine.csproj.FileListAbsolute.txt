@@ -1,0 +1,6 @@
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\bin\Debug\CashMachine.exe
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\bin\Debug\CashMachine.pdb
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\obj\Debug\CashMachine.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+C:\Users\Mert\Dropbox\Code\C#\CashMachine\CashMachine\obj\Debug\CashMachine.pdb
